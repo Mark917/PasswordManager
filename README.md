@@ -34,7 +34,7 @@ Finally, to create the database.db file, run the *init_db.py* script from the re
 
 Once this is done, I strongly recommend **deleting the init_db.py file**. If you run it again, it will **overwrite all the data in your database.db**, effectively deleting all your saved services and passwords.
 
-## Important Disclaimer: Use at Your Own Risk
+# Important Disclaimer: Use at Your Own Risk
 
 This Password Manager uses **advanced local encryption**, securing your data with a **unique key generated upon first use**. All your information is encrypted and stored exclusively in the `database.db` file on your computer.
 
