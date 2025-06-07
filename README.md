@@ -37,3 +37,12 @@ Once this is done, I strongly recommend **deleting the init_db.py file**. If you
 > # **Attention ❗❗**
 > This Password Manager employs advanced encryption technology secured by a unique key generated upon the first access. The program operates locally, meaning all your data is simply encrypted and stored in the database.db file on your computer. Therefore, if you lose this unique key or encounter any situation where you can no longer access the Password Manager, there will be no way to recover your passwords.
 >### **This software is in the beta stage, so please do not use it with personal data that could be lost. Make sure any data saved in the software is also backed up in at least one other location. The creator will not be liable for any damage caused by the software.**
+> This software has been developed and rigorously tested on Microsoft Windows 10 and Windows 11 environments. Users are strongly cautioned against deploying or utilizing this software on any operating system other than those specified.
+> Unauthorized use on alternative operating systems may lead to unpredictable outcomes, including but not limited to:
+>
+> Operational instability
+> Visual rendering anomalies
+> Irreversible data corruption or loss
+> The software creator explicitly disclaims all liability for any direct, indirect, incidental, or consequential damages, including but not limited to data loss or system malfunction, that may arise from the use of this software on non-Windows operating systems.
+>
+> ### **Please note: This software is currently in its beta phase. Support for other operating systems will require waiting for a stable release and official availability for those platforms.**
