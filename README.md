@@ -34,15 +34,34 @@ Finally, to create the database.db file, run the *init_db.py* script from the re
 
 Once this is done, I strongly recommend **deleting the init_db.py file**. If you run it again, it will **overwrite all the data in your database.db**, effectively deleting all your saved services and passwords.
 
-> # **Attention ❗❗**
-> This Password Manager employs advanced encryption technology secured by a unique key generated upon the first access. The program operates locally, meaning all your data is simply encrypted and stored in the database.db file on your computer. Therefore, if you lose this unique key or encounter any situation where you can no longer access the Password Manager, there will be no way to recover your passwords.
->### **This software is in the beta stage, so please do not use it with personal data that could be lost. Make sure any data saved in the software is also backed up in at least one other location. The creator will not be liable for any damage caused by the software.**
-> This software has been developed and rigorously tested on Microsoft Windows 10 and Windows 11 environments. Users are strongly cautioned against deploying or utilizing this software on any operating system other than those specified.
-> Unauthorized use on alternative operating systems may lead to unpredictable outcomes, including but not limited to:
->
-> Operational instability
-> Visual rendering anomalies
-> Irreversible data corruption or loss
-> The software creator explicitly disclaims all liability for any direct, indirect, incidental, or consequential damages, including but not limited to data loss or system malfunction, that may arise from the use of this software on non-Windows operating systems.
->
-> ### **Please note: This software is currently in its beta phase. Support for other operating systems will require waiting for a stable release and official availability for those platforms.**
+## Important Disclaimer: Use at Your Own Risk
+
+This Password Manager uses **advanced local encryption**, securing your data with a **unique key generated upon first use**. All your information is encrypted and stored exclusively in the `database.db` file on your computer.
+
+### Critical Data Loss Warning
+
+If you **lose this unique key** or are otherwise unable to access the Password Manager, there is **no recovery mechanism** for your passwords. They will be permanently inaccessible.
+
+----------
+
+### Beta Software Notice
+
+This software is currently in its **beta phase**. It is **not recommended for use with critical personal data** that you cannot afford to lose. Always ensure that any data saved within this software is **backed up independently in at least one other secure location.**
+
+----------
+
+### Operating System Compatibility
+
+This software has been developed and rigorously tested **only on Microsoft Windows 10 and Windows 11**. Using it on any other operating system is **strongly discouraged** and may lead to:
+
+-   Operational instability
+-   Graphical anomalies
+-   Irreversible data corruption or loss
+
+Future support for other operating systems will be addressed in a stable release.
+
+----------
+
+### Disclaimer of Liability
+
+By using this software, you acknowledge and accept that **the creator will not be held liable for any direct, indirect, incidental, consequential, or special damages, including but not limited to data loss, system malfunction, or any other issues arising from its use**, regardless of the operating system it is run on. Your use of this software signifies your understanding and acceptance of these risks.
